@@ -12,14 +12,14 @@ body{
 .container{   
     margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
 }
 
 main{
     font-family: 'Balsamiq Sans', cursive;
     text-align: center;
-    grid-column: 2/4;
+    grid-column: 2/3;
     grid-row: 2;
 }
 
