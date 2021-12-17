@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@1,700&display=swap');
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(250, 24, 250, 0.1);
+}
+
+
+main{
+    font-family: 'Balsamiq Sans', cursive;
+    width: 400px ;
+    margin:0 auto;
+    margin:30% ;
+    text-align: center;
+    
+
+}
+.full-w-100{width: 100%;
+}
+
+h1{
+    font-size: 3em;
+}
+
+.h1-color01{
+    color: blue;
+}
+.h1-color02{
+    color: red;
+}
+.h1-color04{
+    color: yellow;
+}
+.h1-color03{
+    color: green;
+}
+section{
+
+}
+
+input{
+    border-radius: 10px;
+}
+svg{
+    width: 20px;
+}
+button{
+    padding: 5px;
+    border-radius: 15px;
+}
